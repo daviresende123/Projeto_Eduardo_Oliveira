@@ -40,6 +40,7 @@ public class A {
         System.out.println("Alteração a classe A partir do clone");
     }
 
+    //Método GetSoma
     public Integer GetSoma(Integer A, Integer B) {
         return A + B;
     }
